@@ -32,8 +32,8 @@
 		"buy-me-a-coffee": "",
 		"this-github-repo": "https://github.com/Lu9-ST/notion.lu9.st"
 	},
-	"custom-domain": "lu9.st",
-	"base-path": "notion",
+	"custom-domain": "",
+	"base-path": "",
 	"giscus": {
 		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
 		"data-repo-id": "R_kgDOK0FuUA",
