@@ -1,6 +1,6 @@
 {
-	"database-id": "169b6e632b7448529120599281265ac5",
-	"author": "",
+	"database-id": "25911cf89338807cb4c8ea16d5ee0085",
+	"author": "Lu9",
 	"tracking": {
 		"google-analytics": {
 			"use-ga": true,
@@ -16,23 +16,23 @@
 	"google-search-console-html-tag": "",
 	"socials": {
 		"email": "",
-		"github": "",
+		"github": "https://github.com/Lu9-ST",
 		"googlescholar": "",
 		"semanticscholar": "",
 		"dblp": "",
 		"substack": "",
 		"facebook": "",
-		"twitter": "",
+		"twitter": "https://twitter.com/Lu9_ST",
 		"threads": "",
 		"instagram": "",
-		"mastodon": "",
-		"bluesky": "",
+		"mastodon": "https://retro.pizza/@Lu9",
+		"bluesky": "https://bsky.app/profile/lu9.st",
 		"calendar": "",
-		"kofi": "",
+		"kofi": "https://ko-fi.com/lu9",
 		"buy-me-a-coffee": "",
-		"this-github-repo": "https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog"
+		"this-github-repo": "https://github.com/Lu9-ST/notion.lu9.st"
 	},
-	"custom-domain": "",
+	"custom-domain": "notion.lu9.st",
 	"base-path": "",
 	"giscus": {
 		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
@@ -102,8 +102,8 @@
 			}
 		},
 		"fontfamily-google-fonts": {
-			"combined-url": "https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap",
-			"sans-font-name": "Roboto",
+			"combined-url": "https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto+Slab:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap",
+			"sans-font-name": "Roboto\\ Slab",
 			"serif-font-name": "",
 			"mono-font-name": "Roboto\\ Mono"
 		}
